@@ -1,0 +1,3 @@
+create database finding_jobs_website_project;
+show databases;
+use finding_jobs_website_project;
