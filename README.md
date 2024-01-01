@@ -7,5 +7,5 @@ A recruitment website creates an intermediary bridge between employers and candi
   + Update CV and personal information
   + Display recruitment details and popular jobs
   + Allow admin to post recruitments and interact with them (list, add, update, delete, view/approve CV, ...)
-	+ Allow user to search/follow/save companies, jobs, and apply for a job and view its status
-	+ ...
+  + Allow user to search/follow/save companies, jobs, and apply for a job and view its status
+  + ...
